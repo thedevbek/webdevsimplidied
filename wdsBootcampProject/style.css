@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Cambria, serif;
+    color: #1B2522;
+}
+.full-screen-header {
+    height: 100vh;
+    background-image: url("img/header_image.jpg");
+    background-size: cover;
+    background-position-x:40%;
+    background-position-y: center;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+    color:white;
+}

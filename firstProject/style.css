@@ -1,0 +1,22 @@
+header,
+#footer {
+  background-color: blueviolet;
+}
+
+.header_text,
+#footer {
+  color: white;
+  text-align: center;
+}
+
+.article_title {
+  font-family: Arial;
+}
+
+.article_date {
+  font-style: italic;
+}
+.article_author,
+.article_date {
+  color: rgb(106, 12, 153);
+}

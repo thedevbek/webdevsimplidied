@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.header {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hobbies,
+.languages {
+  background-color: green;
+  color: azure;
+}
+
+.first {
+  color: cornflowerblue;
+}
+
+.strikeout {
+  text-decoration: line-through;
+}
